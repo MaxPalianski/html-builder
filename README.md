@@ -22,7 +22,10 @@ Please note that most tasks can be accomplished in multiple ways, and at this st
 - Clone the created repository
 - Run the command `npm install` to install eslint, prettier and node.js typings that will assist you in completing the tasks
 - Complete the tasks. The specifications for each task are in the `README.md` file inside the task folder
+- Use the [Git commit convention](https://rs.school/docs/git-convention) for your commits.
+- Open a Pull Request following the [PR description schema](https://rs.school/docs/short-track/pull-request-requirements) - **do not merge it into main**.
 - Push the solution to your repository
+- Submit the link on your Pull Request in [rs app](https://app.rs.school/) → `Cross-Check: Submit`.
 
 ## Crosscheck
 
